@@ -6,9 +6,9 @@ Extract tables from [Budget reports of 'Bureau of the Budget, Thailand'](https:/
 
 ***1. Auto download pdf files from websites to a lacal machine.***
 
+      An example of a table in pdf.
 ![](Images/pdfPic.png)
 
-An example of a table in pdf.
 
 Link to the code: [pdf auto download](https://github.com/saeth40/Tables-extraction-from-pdf-with-Python/blob/main/AutoDownload.ipynb)
 
