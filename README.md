@@ -8,6 +8,8 @@ Extract tables from [Budget reports of 'Bureau of the Budget, Thailand'](https:/
 
 ![](Images/pdfPic.png)
 
+An example of a table in pdf.
+
 Link to the code: [pdf auto download](https://github.com/saeth40/Tables-extraction-from-pdf-with-Python/blob/main/AutoDownload.ipynb)
 
 ***2. Test tables extraction function.***
